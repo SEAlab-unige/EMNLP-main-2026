@@ -237,7 +237,7 @@ def stream_aligned_permutations(
 
 if __name__ == "__main__":
     # Esempio di uso: carica tutti i file nella directory corrente
-    perms = load_all_permutations("../vicini")
+    perms = load_all_permutations("../neighbors_indexes/")
 
     print(f"Numero totale di ID caricati: {len(perms)}")
     # Mostriamo solo qualche esempio
