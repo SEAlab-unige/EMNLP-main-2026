@@ -1,6 +1,6 @@
 NON-COMMERCIAL RESEARCH LICENSE
 
-Copyright (c) 2026 SeaLab, Università degli Studi di Genova
+Copyright (c) 2026 SEALab, Università degli Studi di Genova
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to use,
