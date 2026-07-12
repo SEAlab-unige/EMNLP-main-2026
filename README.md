@@ -2,7 +2,7 @@
 
 This repository contains the reference implementation of the methodology presented in the paper:
 
-**“A General Model-Agnostic Approach to the Pairwise Comparison of Embeddings”**.
+**“Back to Words: A Model-Agnostic Comparison of Embedding Spaces through Lexical Neighborhoods”**.
 
 The codebase implements a model-agnostic analytical framework for the comparison of heterogeneous embedding schemes, grounded in a shared lexical domain. Instead of comparing embedding spaces directly, the method operates on lexical neighborhoods, which are treated as permutations and analyzed through statistical metrics.
 
